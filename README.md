@@ -258,16 +258,6 @@ Many apps reach for dedicated audio libraries, but `react-native-video` is a sol
 
 ---
 
-## Roadmap
-
-- [ ] Add screenshot assets under `docs/screenshots/`
-- [ ] Replace mock API with live backend
-- [ ] Shuffle and repeat modes
-- [ ] Cached offline playback
-- [ ] Playlist persistence
-
----
-
 ## License
 
 MIT — free to use for learning, portfolios, and experimentation.
