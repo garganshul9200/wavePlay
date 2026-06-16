@@ -13,18 +13,13 @@ WavePlay demonstrates how to build a production-style audio experience in React 
 
 ## Preview
 
-> Add screenshots to `docs/screenshots/` and they will render here.
-
 | Discover | Player | Mini Player |
 |----------|--------|-------------|
-| _Add `discover.png`_ | _Add `player.png`_ | _Add `mini-player.png`_ |
+| ![Discover screen — WavePlay overview and highlights](docs/screenshots/discover.png) | ![Player screen — now playing with seek bar and queue](docs/screenshots/player.png) | ![Mini player — persistent bar above tab navigation](docs/screenshots/mini-player.png) |
 
-**Suggested demo flow for recordings**
-1. Open the **Player** tab and start a track
-2. Drag the progress bar to seek to a new position
-3. Switch to **Discover** — audio keeps playing
-4. Use the mini player (`❚❚` / `▶`) to pause or tap the bar to reopen the full player
-5. Background the app — playback continues with system controls
+| System Controls |
+|-----------------|
+| ![Android notification shade — lock-screen style media controls](docs/screenshots/notification-controls.png) |
 
 ---
 
